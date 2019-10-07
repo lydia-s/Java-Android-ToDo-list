@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com1032.cw1.ls00735.ls00735_todolist.SecondActivity">
+
+    <item
+        android:id="@+id/action_activity_one"
+        android:orderInCategory="100"
+        android:title="@string/activity_main"
+        app:showAsAction="never" />
+
+</menu>

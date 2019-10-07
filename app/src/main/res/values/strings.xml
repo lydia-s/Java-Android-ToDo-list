@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ls00735_todoList</string>
+    <string name="clear_list">Clear List</string>
+    <string name="addTask">Add Task</string>
+    <string name="toast_AR">Hello... </string>
+    <string name="go_second">Go to the second activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="activity_main">Back to Main</string>
+
+</resources>
